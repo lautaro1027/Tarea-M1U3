@@ -11,5 +11,11 @@
     <p>19 Años</p>
     <h2>Localidad</h2>
     <p>San justo, Santa fe</p>
+    <h3>Estudios</h3>
+    <ol>
+        <li>Escuela de Educación Técnica Nº277 "Fray Francisco Castañeda"</li>
+        <li>Curso en junior achievement sobre Programación</li>
+        <li>Curso en junior achievement sobre Economía Personal</li>
+    </ol>
 
 </body>
