@@ -41,6 +41,10 @@ p{
 }
 
 .nombre{
-    box-shadow: 0 0 5px #07454b;
-    background-color: #07454b;
+    box-shadow: 0 0 5px #ff0000;
+    background-color: #000000;
+}
+
+.img{
+    box-shadow: 0 0 10px #888;
 }
