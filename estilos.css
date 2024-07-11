@@ -39,3 +39,8 @@ p{
 .titulos{
     text-align: center;
 }
+
+.nombre{
+    box-shadow: 0 0 5px #07454b;
+    background-color: #07454b;
+}
