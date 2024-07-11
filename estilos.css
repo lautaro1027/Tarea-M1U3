@@ -12,6 +12,11 @@ img{
     cursor: auto;
 }
 
+p{
+    font-style: italic;
+    font-size: 20px;
+}
+
 #caja{
     background-color: aqua;
     width: 300px;
