@@ -4,6 +4,10 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 
+h2{
+    text-transform: uppercase;
+}
+
 img{
     cursor: auto;
 }
